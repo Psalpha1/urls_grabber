@@ -27,3 +27,6 @@ Make sure you have Python installed on your system. The required libraries are l
    cd urls_grabber
    pip install -r requirements.txt
    python main.py
+
+##
+![Alt Text](view.png)
