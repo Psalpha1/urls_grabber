@@ -29,4 +29,4 @@ Make sure you have Python installed on your system. The required libraries are l
    python main.py
 
 ##
-![Alt Text](view.png)
+![Alt Text](cap.png)
